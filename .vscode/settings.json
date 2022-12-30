@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "SWAPP_POINTER.C": "cpp"
+        "SWAPP_POINTER.C": "cpp",
+        "print_odd_no_1D.C": "cpp"
     }
 }
