@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "SWAPP_POINTER.C": "cpp",
-        "print_odd_no_1D.C": "cpp"
+        "print_odd_no_1D.C": "cpp",
+        "SUM_2D.C": "cpp"
     }
 }
