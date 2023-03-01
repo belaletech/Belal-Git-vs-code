@@ -2,7 +2,7 @@
 int main()
 {
     int a[50][50],sum=0,row,col;
-    int b[50];
+    int b[50][50];
     int i,j;
     printf("Enter row\n");
     scanf("%d",&row);
@@ -27,12 +27,9 @@ int main()
         printf("\n");
     }
     printf("Transpose of Matrix is given below\n");
-    for(i=0;i<row;i++)
-    {
-        for(j=0;j<col;j++)
-        {
-            printf("%d ", b[j][i]);
-        }
+        
+            printf("%d ", a[j][i]);
+        
         printf("\n");
     }
     printf("Sum of two matrix is given below\n");
